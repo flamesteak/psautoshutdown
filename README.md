@@ -36,3 +36,10 @@ Paste the code into your shortcut in ```shell:startup```
 
 Finally, **Apply** and press **Ok**!
 Your done!
+
+## Lore
+I made this as my potato pc keeps breaking every now and then if I use it for too long without a break
+
+After the 3rd time I decided to make this to prevent myself from overusing it by accident
+
+-# *Note: I used a bit of AI to write this code*
