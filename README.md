@@ -7,6 +7,7 @@ Made this for myself but decided to release it
 Download the files as a zip
 
 ![{FF73D6C5-122D-4716-AEC3-C415AB920DFD}](https://github.com/user-attachments/assets/0a62b92b-a87e-4928-b29b-129bc60f1dc4)
+
 Extract the files on your device
 And boom! You can delete the ```README.md``` and ```LICENSE``` file
 
