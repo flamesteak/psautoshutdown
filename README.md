@@ -42,6 +42,10 @@ Paste the code into your shortcut in ```shell:startup```
 Finally, **Apply** and press **Ok**!
 Your done!
 
+![{B9008B5C-AB02-44BC-9F8C-7C15C1C8E454}](https://github.com/user-attachments/assets/fd34090c-1208-467b-9caa-d2fd10cf8c22)
+
+The script will confirm the shutdown in 1 hour 55 minutes!
+
 ## Lore
 I made this as my potato pc keeps breaking every now and then if I use it for too long without a break
 
