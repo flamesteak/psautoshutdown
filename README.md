@@ -1,9 +1,14 @@
-# Powershell Auto Shutdown Script
+# PowerShell Auto Shutdown Script
 Shuts down your PC 2 hours after script is ran!
 
 Made this for myself but decided to release it
 
 ## Download
+Open the releases page and download the latest release
+Run the file through ```PowerShell```
+
+### OR
+
 Download the files as a zip
 
 ![{FF73D6C5-122D-4716-AEC3-C415AB920DFD}](https://github.com/user-attachments/assets/0a62b92b-a87e-4928-b29b-129bc60f1dc4)
