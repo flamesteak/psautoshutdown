@@ -56,3 +56,4 @@ while ($true) {
 
 # Write-Host "`nScript ended. Press Enter to exit..." -ForegroundColor Yellow
 # Read-Host
+# Made by @flamesteak
