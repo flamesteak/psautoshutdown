@@ -1,5 +1,5 @@
 if ($Host.Name -eq "ConsoleHost") {
-    $Host.UI.RawUI.WindowTitle = "PC Shutdown Timer"
+    $Host.UI.RawUI.WindowTitle = "PS Auto Shutdown by @flamesteak"
 }
 
 function Format-TimeRemaining {
